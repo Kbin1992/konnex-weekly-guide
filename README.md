@@ -1,8 +1,10 @@
-# Konnex Weekly 500 KP Guide (Android)
+## 🚀 Konnex Weekly Testnet Guide (Mobile Working Method)
 
-> ✅ Works on Android via SubWallet app  
-> ❌ Chrome extension has faucet errors — don't use it  
-> ⚠️ Do everything inside the SubWallet browser, not Chrome
+Tried completing Konnex tasks on desktop but kept getting errors.  
+
+Switched to mobile (SubWallet) — worked instantly.  
+
+Here’s the simplest way to complete the weekly task and earn 500 KP.
 
 ---
 
